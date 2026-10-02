@@ -1188,4 +1188,3 @@ anim = animation.FuncAnimation(
 )
 
 plt.show()
-dhgjasdfhgdsjaksjdhs
